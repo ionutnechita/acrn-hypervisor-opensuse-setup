@@ -1,12 +1,12 @@
 The Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps 
 is provided under:
 
-	- SPDX-License-Identifier: BSD-3-Clause
+    - SPDX-License-Identifier: BSD-3-Clause
 
 Being under the terms of the BSD 3-Clause "New" or "Revised" License,
 according with:
 
-	- First file:  LICENSE
+    - First file:  LICENSE
     - Second file: LICENSES/preferred/BSD-3-Clause
 
 The Linux Kernel is provided under:
