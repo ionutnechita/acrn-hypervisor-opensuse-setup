@@ -13,7 +13,7 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "acrn-opensuse-setup",
+	Use:   "acrn-hypervisor-opensuse-setup",
 	Short: "ACRN Hypervisor OpenSUSE Setup",
 	Run:   func(cmd *cobra.Command, args []string) { cmd.Help(); os.Exit(0) },
 }
