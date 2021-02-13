@@ -5,7 +5,7 @@
 package main
 
 import (
-	"./cmd"
+	"github.com/ionutnechita/acrn-hypervisor-opensuse-setup/cmd"
 )
 
 func main() {

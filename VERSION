@@ -4,6 +4,6 @@
 
 VERSION="0"
 PATCHLEVEL="1"
-SUBLEVEL="4"
+SUBLEVEL="5"
 EXTRALEVEL="-DEV"
 NAME="Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps - General Purpose Flavor"

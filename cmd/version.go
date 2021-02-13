@@ -7,7 +7,7 @@ package cmd
 import (
 	"log"
 
-	"../pkg/app"
+	"github.com/ionutnechita/acrn-hypervisor-opensuse-setup/pkg/app"
 	"github.com/spf13/cobra"
 )
 
