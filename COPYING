@@ -1,0 +1,31 @@
+The Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps 
+is provided under:
+
+	- SPDX-License-Identifier: BSD-3-Clause
+
+Being under the terms of the BSD 3-Clause "New" or "Revised" License,
+according with:
+
+	- First file:  LICENSE
+    - Second file: LICENSES/preferred/BSD-3-Clause
+
+The Linux Kernel is provided under:
+
+    - SPDX-License-Identifier: GPL-2.0 WITH Linux-syscall-note
+
+Being under the terms of the GNU General Public License version 2 only,
+according with:
+
+    - First file: LICENSES/preferred/GPL-2.0
+
+With an explicit syscall exception, as stated at:
+
+    - First file: LICENSES/exceptions/Linux-syscall-note
+
+For other parts of the code that do not fall within the specified licenses, 
+they may be covered by the licenses in the folders:
+
+    - First folder: LICENSES
+
+All contributions to the Project ACRN Embedded Hypervisor using 
+OpenSUSE OS - Setup Steps are subject to this COPYING file.

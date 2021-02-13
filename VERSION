@@ -1,0 +1,9 @@
+# Copyright (c) 2021, Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps, Ionut Nechita.
+# All rights reserved.
+# SPDX-License-Identifier: BSD-3-Clause
+
+VERSION="0"
+PATCHLEVEL="1"
+SUBLEVEL="1"
+EXTRALEVEL="-DEV"
+NAME="Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps - General Purpose Flavor"
