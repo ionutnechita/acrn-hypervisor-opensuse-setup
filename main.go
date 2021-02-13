@@ -5,9 +5,9 @@
 package main
 
 import (
-	"fmt"
+	"./cmd"
 )
 
 func main() {
-	fmt.Println("Welcome on Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps")
+	cmd.Execute()
 }
