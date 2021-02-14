@@ -2,8 +2,4 @@
 # All rights reserved.
 # SPDX-License-Identifier: BSD-3-Clause
 
-VERSION="0"
-PATCHLEVEL="1"
-SUBLEVEL="8"
-EXTRALEVEL="-DEV"
-NAME="Project ACRN Embedded Hypervisor using OpenSUSE OS - Setup Steps - General Purpose Flavor"
+set(CMAKE_Go_COMPILER_WORKS 1 CACHE INTERNAL "")

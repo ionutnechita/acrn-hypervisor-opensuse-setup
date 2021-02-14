@@ -19,7 +19,7 @@ const VERSION = "0"
 const PATCHLEVEL = "1"
 
 // SUBLEVEL as const
-const SUBLEVEL = "7"
+const SUBLEVEL = "8"
 
 // EXTRALEVEL as const
 const EXTRALEVEL = "-DEV"
